@@ -8,7 +8,7 @@ public class MyGitPractice {
 		if (H=="y") {
 			System.out.println("Means yes");
 		}
-		else	{
+		else if (H=="n")	{
 			System.out.println("Means No");
 		}
 
