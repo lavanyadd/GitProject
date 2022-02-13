@@ -11,6 +11,9 @@ public class MyGitPractice {
 		else if (H=="n")	{
 			System.out.println("Means No");
 		}
+		else {
+			System.out.println("All done");
+		}
 
 	}
 
