@@ -6,6 +6,7 @@ public class MyGitPractice {
 		// TODO Auto-generated method stub
 		String H = "y";
 		System.out.println("Just a test - minor");
+		System.out.println("Adding to see branch commits");
 		if (H=="y") {
 			System.out.println("Means yes");
 		}
