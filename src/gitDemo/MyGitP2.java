@@ -6,6 +6,9 @@ public class MyGitP2 {
 		// TODO Auto-generated method stub
 		System.out.println("This is new class");
 
+		System.out.println("modifying the class.");
+
+
 	}
 
 }
