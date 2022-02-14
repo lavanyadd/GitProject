@@ -8,7 +8,7 @@ public class MyGit3 {
 		if (num %2==0) {
 			System.out.println("even");
 		}else {
-			System.out.println("ODD");
+			System.out.println("ODD   ....");
 		}
 				
 
